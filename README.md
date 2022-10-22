@@ -1,4 +1,4 @@
-# Bootstrap - Müzik Dükkanım
+# Music Store Web Page
 
 ![alt text](https://github.com/Axlope/bootstrap-web-page/blob/master/preview/bs-1.png)
 ![alt text](https://github.com/Axlope/bootstrap-web-page/blob/master/preview/bs-2.png)
